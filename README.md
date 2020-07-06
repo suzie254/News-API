@@ -18,26 +18,16 @@ Search top headlines by keyword and get news image, excerpt, source, and much mo
 
 1.Open your github account and search for github username: **suzie254**
 
-2.In suzie254's repositories; git clonethe Password_Locker repository into your local repository using the following link: **<https://github.com/suzie254/News-API.git>**
+2.In suzie254's repositories; git clone the News-API repository into your local repository using the following link: **<https://github.com/suzie254/News-API.git>**
 
 3.Open your terminal and run the command ./run.py and use the short codes illustrated to operate....
 
 ***BDD***
 
-| Behaviour | Input | Output |
-| --------- | ------| ------ |
-|Open your terminal|Type this command in the terminal **./run.py** and press  `enter`|The terminal displays a statement|
-|Input data to answer the query asked   |Press enter key |Some short commands appear
-|Redirects the user on some instructions on how to manouvre through the application| Type any of the short commands of your choice | Follow them through to create an **account** for instance|
-
 ##### Github-link to News-API
 
-The following is the github link to the project "Password-Locker":
+The following is the github link to the project "News-API":
 This site lacks github pages:**Not applicable**
-
-**The following include the list of technologies used:**
-
-Python3.6
 
 ***Known Bugs***
 
